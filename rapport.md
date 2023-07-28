@@ -82,7 +82,7 @@ papersize: a4
 \clearpage
 ### &nbsp;&nbsp;3.1.2. Les outils et technologies du projet
 
-Tous les outils et technologeis utilisés dans le cadre du projet sont **open source**.
+Tous les outils et technologies utilisés dans le cadre du projet sont **open source**.
 
 #### &nbsp;&nbsp;&nbsp;Linux Mint
 
@@ -94,7 +94,7 @@ Tous les outils et technologeis utilisés dans le cadre du projet sont **open so
 
 #### &nbsp;&nbsp;&nbsp;Figma
 
-&nbsp;&nbsp;&nbsp;&nbsp; **Figma** est un outil web de prototypage basé sur la conception d'UI/UX (interfact utilisateur et expérieence utilisateur) en mettant l'accent sur la collaboration en temps réel.
+&nbsp;&nbsp;&nbsp;&nbsp; **Figma** est un outil web de prototypage basé sur la conception d'**UI/UX** (interfact utilisateur et expérieence utilisateur) en mettant l'accent sur la collaboration en temps réel.
 
 #### &nbsp;&nbsp;&nbsp;VueJs
 
@@ -106,7 +106,7 @@ Tous les outils et technologeis utilisés dans le cadre du projet sont **open so
 
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mqtt
 
-&nbsp;&nbsp;&nbsp;&nbsp; **Mqtt** est un protocol de message basé sur le protocole TCP/IPC conçu pour ls connexions avec des sites distants où la bande passante réseau est limité. 
+&nbsp;&nbsp;&nbsp;&nbsp; **Mqtt** est un protocol de message basé sur le protocole **TCP/IPC** conçu pour ls connexions avec des sites distants où la bande passante réseau est limité. 
 
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SSH
 
@@ -118,7 +118,12 @@ Tous les outils et technologeis utilisés dans le cadre du projet sont **open so
 
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Typescript et design pattern
 
-## &nbsp;&nbsp;3.2. 
+&nbsp;&nbsp;&nbsp;&nbsp; **Typescript**
+
+\clearpage
+## &nbsp;&nbsp;3.2. Prototypage de l'IHM
+
+&nbsp;&nbsp;&nbsp; La 
 
 
 \clearpage
